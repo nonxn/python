@@ -1,1 +1,1 @@
-print ("somchaai")
+print ("somcaai")
